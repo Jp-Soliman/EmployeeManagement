@@ -1,0 +1,6 @@
+Frontend side of the project
+
+Installed Packages
+- Bulma 
+- Axios
+- react-router-dom

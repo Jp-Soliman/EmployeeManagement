@@ -1,0 +1,7 @@
+BackEnd side of the program 
+
+Installed Packages
+- Express 
+- Mongoose
+- Cors
+- Nodemon
